@@ -4,7 +4,7 @@
 # THEME. The following 3 lines don't need to change
 #---------------------
 remote_theme: kalanicraig/digitalarcplatform@v1.0.1 #updated 23 Jul 2025
-repository: 'digitalarcplatform/demo' # change this to your repository name
+repository: 'eagatti/eleventh_centry_frescoes' # change this to your repository name
 
 
 ##############################################
@@ -54,15 +54,15 @@ description: "A platform for sharing images of eleventh-century frescoes in Nort
 # These credits show up in the includes/_footer.html
 # Main author of the website.
 author: "Dr. Evan A. Gatti"
-authorname : "Videntes: A Multispectral Imaging Collective"
+authorname: "Videntes: A Multispectral Imaging Collective"
 sitelogo: site_logo.jpg
 placeholderimg: placeholder.png
 
 # What year did you start up this community project?
-sitedate : 2026
+sitedate: 2026
 
 # Other community social media. Leave blank if you don't have these.
-email : "evan [dot] gatti [at] gmail.com"
+email: "evan [dot] gatti [at] gmail.com"
 website : 
 twitter : 
 github : 
@@ -83,7 +83,7 @@ google_g4_analytics_id:
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
-google_g4_analytics_id: G-LVREG1Y1DT
+google_g4_analytics_id: 
 
 ##############################################
 # FONTS AND COLORS
