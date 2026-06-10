@@ -46,7 +46,7 @@ repository: 'eagatti/eleventh_centry_frescoes' # change this to your repository 
 title: "Eleventh Century Frescoes in Northern Italy"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "Sharing is Caring"
+subtitle: ""
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: "A platform for sharing images of eleventh-century frescoes in Northern Italy"
