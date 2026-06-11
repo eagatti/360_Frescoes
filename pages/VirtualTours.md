@@ -1,5 +1,5 @@
 ---
-title: Our Collection
+title: Virtual Tours
 layout: collection
 permalink: /collection
 ---
