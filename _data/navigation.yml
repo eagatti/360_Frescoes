@@ -1,6 +1,16 @@
 # Site navigation links
 
+- title: Evan A. Gatti 
+  url: https://eagatti.github.io
+  excerpt:
+  image:
+  
 - title: Virtual Tours
   url: /aosta
   excerpt:
+  image:
+
+- title: VidentesMSI
+  url: /aosta
+  excerpt: https://videntesmsi.github.io
   image:
