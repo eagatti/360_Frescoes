@@ -1,7 +1,7 @@
 ---
 title: Virtual Tours
 layout: collection
-permalink: /collection
+permalink: /virtualtours
 ---
 
 {{site.description}}
