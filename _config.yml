@@ -43,10 +43,10 @@ repository: 'eagatti/360_frescoes' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "360 Frescoes in Northern Italy"
+title: "360 Frescoes"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: ""
+subtitle: "in Northern Italy"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: "A platform for sharing images of eleventh-century frescoes in Northern Italy"
@@ -63,7 +63,7 @@ sitedate: 2026
 
 # Other community social media. Leave blank if you don't have these.
 email: "evan [dot] gatti [at] gmail.com"
-website : 
+website : "https://eagatti.github.io"
 twitter : 
 github : 
 facebook : 
