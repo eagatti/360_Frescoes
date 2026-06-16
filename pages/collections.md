@@ -1,6 +1,6 @@
 ---
 title: 360 Collections
-layout: collection
+layout: collections
 permalink: /virtualtours
 ---
 
