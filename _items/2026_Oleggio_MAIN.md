@@ -5,8 +5,8 @@ title: Oleggio, Chiesa di San Michele
 author: 
 contributor: 
 group: 
-creator: 
-externalurl: https://my.matterport.com
+creator: Todd Nicolet 
+externalurl: https://my.matterport.com/show/?m=AFnWWoFMpCZ
 embedurl: 
 creationdate: 2026-06-05
 type: 
