@@ -4,7 +4,7 @@
 # THEME. The following 3 lines don't need to change
 #---------------------
 remote_theme: kalanicraig/digitalarcplatform@v1.0.1 #updated 23 Jul 2025
-repository: 'eagatti/eleventh_centry_frescoes' # change this to your repository name
+repository: 'eagatti/360_frescoes' # change this to your repository name
 
 
 ##############################################
@@ -32,7 +32,7 @@ repository: 'eagatti/eleventh_centry_frescoes' # change this to your repository 
 # In YAML, there's a variable name--a placeholder--at the beginning of the line.
 # Variables have colons after them in YAML.
 # After the variable comes the actual contents of the variable, usually in double quotes
-#               title: "Eleventh-Century Frescoes in Northern Italy"
+#               title: "360 Frescoes in Northern Italy"
 # If you use another double quote inside your variable, it will break this config file.
 #               title: "My "So-Called" Website"
 #
@@ -43,7 +43,7 @@ repository: 'eagatti/eleventh_centry_frescoes' # change this to your repository 
 #---------------------
 
 # Title of your website
-title: "Eleventh Century Frescoes in Northern Italy"
+title: "360 Frescoes in Northern Italy"
 
 # Subtitle of your website. Leave blank if you want to.
 subtitle: ""
