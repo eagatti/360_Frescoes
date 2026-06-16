@@ -1,7 +1,4 @@
 ---
-title: 360 Collections
-layout: collections
-permalink: /collections
----
-
-{{site.description}}
+title: 360 Frescoes
+layout: collection
+permalink: /360collections
