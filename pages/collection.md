@@ -1,5 +1,5 @@
 ---
-title: Virtual Tours
+title: 360 Collections
 layout: collection
 permalink: /virtualtours
 ---
