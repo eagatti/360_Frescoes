@@ -1,7 +1,7 @@
 ---
 title: 360 Collections
 layout: collections
-permalink: /virtualtours
+permalink: /collections
 ---
 
 {{site.description}}
