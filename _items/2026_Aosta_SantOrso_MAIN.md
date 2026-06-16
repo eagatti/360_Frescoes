@@ -2,17 +2,17 @@
 layout: item
 format: 
 title: Aosta, Santa Maria Assunta
-author: 
+author: Evan A. Gatti
 contributor: 
 group: 
-creator: 
-externalurl: 
+creator: Foster Nicolet, 360 Photography
+externalurl: https://my.matterport.com/models/bvJDdRj38wN
 embedurl: 
 creationdate: 2026-06-05
 type: 
 shortdesc: 
 categories: [ Fresco ]
-tags: [  ]
+tags: [ 360 ]
 teammember: 
 ---
 
