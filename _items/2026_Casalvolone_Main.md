@@ -5,7 +5,7 @@ title: Casalvolone, Parrocchia San Pietro
 author: 
 contributor: 
 group: 
-creator: Todd Nicolet, 360 Photography
+creator: Foster Nicolet, 360 Photography
 externalurl: https://my.matterport.com/show/?m=AFnWWoFMpCZ
 embedurl: 
 creationdate: 2026-06-05
