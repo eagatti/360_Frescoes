@@ -112,7 +112,7 @@ colorchoice: teal # Bright teal with bright orange-yellow accents
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-#accentchoice: accent-darkred # Dark red
+accentchoice: accent-darkred # Dark red
 #accentchoice: accent-red # Bright red
 #accentchoice: accent-pink # Deep pink
 #accentchoice: accent-orange # Tangerine Orange
