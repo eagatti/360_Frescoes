@@ -6,7 +6,7 @@ author:
 contributor: 
 group: 
 creator: Todd Nicolet 
-externalurl: https://my.matterport.com/show/?m=AFnWWoFMpCZ
+externalurl: https://my.matterport.com/show/?m=AxsTqYXTwgX
 embedurl: 
 creationdate: 2026-06-05
 type: 
