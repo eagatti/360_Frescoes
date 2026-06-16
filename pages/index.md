@@ -1,5 +1,5 @@
 ---
-title: Eleventh-Century Frescoes in Northern Italy
+title: 360 Frescoes in Northern Italy
 layout: homepage
 permalink: /
 ---
