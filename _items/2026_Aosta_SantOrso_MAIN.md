@@ -7,7 +7,7 @@ contributor:
 group: 
 creator: Foster Nicolet, 360 Photography
 externalurl: https://my.matterport.com/models/bvJDdRj38wN
-embedurl: 
+embedurl: https://my.matterport.com/models/bvJDdRj38wN
 creationdate: 2026-06-05
 type: 
 shortdesc: 
